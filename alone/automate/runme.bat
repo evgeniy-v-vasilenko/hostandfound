@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\SQLCMD.EXE" -E -S 80.178.113.112 -i c:\automate\script.sql -o c:\automate\report.txt
